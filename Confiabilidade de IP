@@ -1,0 +1,12 @@
+Verificação de Confiabilidade de IP ou Site com VirusTotal API
+Este script em GO utiliza a API do VirusTotal para verificar a confiabilidade de IPs ou sites específicos. Ele fornece informações detalhadas sobre o status de análise de segurança, ajudando a garantir uma navegação segura.
+
+Recursos:
+Verificação Detalhada: Obtém estatísticas recentes de análise para determinar se um IP ou site é malicioso, suspeito ou não detectado.
+Código Aberto: Projeto totalmente de código aberto, permitindo modificações e adaptações conforme necessário.
+Segurança em Primeiro Lugar: Ajuda a navegar apenas em sites confiáveis, protegendo contra ameaças cibernéticas.
+Uso:
+Chave de API: Certifique-se de ter uma chave de API válida do VirusTotal.
+Configuração: Substitua "YOUR_API_KEY" no código pelo seu próprio token de API.
+Personalização: Modifique o valor de ipOrDomain para o IP ou domínio que deseja verificar.
+Execução: Compile e execute o script para obter as análises de segurança detalhadas.
