@@ -5,6 +5,7 @@ Recursos:
 Verificação Detalhada: Obtém estatísticas recentes de análise para determinar se um IP ou site é malicioso, suspeito ou não detectado.
 Código Aberto: Projeto totalmente de código aberto, permitindo modificações e adaptações conforme necessário.
 Segurança em Primeiro Lugar: Ajuda a navegar apenas em sites confiáveis, protegendo contra ameaças cibernéticas.
+
 Uso:
 Chave de API: Certifique-se de ter uma chave de API válida do VirusTotal.
 Configuração: Substitua "YOUR_API_KEY" no código pelo seu próprio token de API.
